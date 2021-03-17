@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasadm0re
 - 👀 I’m interested in data science and ML
-- 🌱 I’m currently learning new data science techniques to masterr my field
+- 🌱 I’m currently learning new data science techniques to master my skills
 - 📫 You can reach me @ https://www.linkedin.com/in/prasad-more-8112b3144/
 
 <!---
